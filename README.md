@@ -1,7 +1,5 @@
 # outreach-cli
 
-A production-grade B2B outreach pipeline that finds lookalike companies, discovers contacts, verifies markdown# Automated Outreach Pipeline
-
 A production-grade B2B outreach CLI that finds lookalike companies, discovers decision-makers, generates personalised emails, and optionally sends them — all from one command.
 
 ```bash
